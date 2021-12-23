@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:telegram_layout_test/widgets/account_info.dart';
-import 'package:telegram_layout_test/widgets/profile_info.dart';
-import 'package:telegram_layout_test/widgets/settings.dart';
+import 'package:telegram_layout_test/src/widgets/account_info.dart';
+import 'package:telegram_layout_test/src/widgets/profile_info.dart';
+import 'package:telegram_layout_test/src/widgets/settings.dart';
 
 class UserMenu extends StatelessWidget {
   const UserMenu({Key? key}) : super(key: key);

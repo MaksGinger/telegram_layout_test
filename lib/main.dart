@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:telegram_layout_test/user_menu.dart';
+import 'package:telegram_layout_test/src/user_menu.dart';
 
 void main() {
   runApp(const App());
